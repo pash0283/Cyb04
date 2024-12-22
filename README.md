@@ -3,8 +3,8 @@
 
 ## Task
 
-<div align="01">
-<img height="180em" src="https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing" ></div>
+[<img src="./assets/TMS.png" alt="01" width="40" height="40">](https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing)
+
 
 
 **"Knowledge will break the chains of slavery."**
