@@ -26,12 +26,6 @@
 
 Feel free to reach out! Let's connect and collaborate on exciting projects.
 
-## 📈 GitHub Stats
----
-<div align="center">
-<img height="180em" src="https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing" ></div>
----
-    
 ## Tools and Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="MReis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
