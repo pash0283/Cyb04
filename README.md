@@ -9,7 +9,7 @@
 [<img src="./assets/TMS.png" alt="02" width="40" height="40">](https://drive.google.com/file/d/1v61oBy0r-H6QWPLZ0rQrXILykKVYPxLE/view?usp=sharing)
 [<img src="./assets/TMS.png" alt="02" width="40" height="40">](https://drive.google.com/file/d/1iQDRV39OBgP8Bo3QW29_kezvWKkxelfa/view?usp=sharing)
 
-[<img src="./assets/TMS.png" alt="36" width="40" height="40">](https://drive.google.com/file/d/1iQDRV39OBgP8Bo3QW29_kezvWKkxelfa/view?usp=sharing)
+36
 
 **"There is not knowledge that is not power."**
 
