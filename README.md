@@ -14,8 +14,10 @@
 - Docker
 
 ## 🔗 Connect with Me
+
 [<img src="./assets/linkedin-48x48.png" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/pash0283)
 [<img src="./assets/telegram.svg" alt="Telegram" width="40" height="40">](https://telegram.org/p1sh1s)
+
 Feel free to reach out! Let's connect and collaborate on exciting projects.
 
 ## 📈 GitHub Stats
