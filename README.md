@@ -22,9 +22,7 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 ## 📈 GitHub Stats
 ---
 <div align="center">
-  <a href="https://github.com/pash0283">
-  <img height="180em" src="https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing"/>
-</div>
+<img height="180em" src="https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing" ></div>
 ---
     
 ## Tools and Technologies
