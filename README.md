@@ -2,8 +2,7 @@
 курс по кибербезу
 
 ## Task
-01
-[<img src="./assets/https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing")
+01 (https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing")
 
 **"Knowledge will break the chains of slavery."**
 
