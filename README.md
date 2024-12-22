@@ -4,7 +4,9 @@
 ## Task
 
 [<img src="./assets/TMS.png" alt="01" width="40" height="40">](https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing)
-
+[<img src="./assets/TMS.png" alt="02" width="40" height="40">](https://drive.google.com/file/d/1J9-7s-kmtgh5weuYmHZSuL1IHpn6cxDn/view?usp=sharing)
+[<img src="./assets/TMS.png" alt="02" width="40" height="40">](https://drive.google.com/file/d/1v61oBy0r-H6QWPLZ0rQrXILykKVYPxLE/view?usp=sharing)
+[<img src="./assets/TMS.png" alt="02" width="40" height="40">](https://drive.google.com/file/d/1iQDRV39OBgP8Bo3QW29_kezvWKkxelfa/view?usp=sharing)
 
 
 **"Knowledge will break the chains of slavery."**
