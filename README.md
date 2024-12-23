@@ -2,7 +2,7 @@
 курс по кибербезу
 [<img src="./assets/googledrive-48x48.png" alt="Google Drive" width="40" height="40">](https://drive.google.com/drive/folders/1YTri6-9lLZ8cWxU_zNSNTqfcFxgQqbhf)
 
-## Task  ДЗ
+## ДЗ
 
 [<img src="./assets/TMS.png" alt="01" width="40" height="40">](https://drive.google.com/file/d/1tCNvgeWHkHaYhCAMn7mH9LEbrg7Ss7pq/view?usp=sharing)
 [<img src="./assets/TMS.png" alt="02" width="40" height="40">](https://drive.google.com/file/d/1J9-7s-kmtgh5weuYmHZSuL1IHpn6cxDn/view?usp=sharing)
