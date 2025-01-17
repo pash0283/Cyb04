@@ -1,5 +1,5 @@
 # Cyb04
-курс по кибербезу
+курс по кибербезу: две папки(ссылки)
 [<img src="./assets/googledrive-48x48.png" alt="Google Drive" width="40" height="40">](https://drive.google.com/drive/folders/1O4an2aTIXPbY2_olSjsi7HrrcKJyKNRN)
 [<img src="./assets/googledrive-48x48.png" alt="Google Drive" width="40" height="40">](https://drive.google.com/drive/folders/1YTri6-9lLZ8cWxU_zNSNTqfcFxgQqbhf)
 
